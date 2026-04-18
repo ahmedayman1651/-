@@ -1,0 +1,11 @@
+{
+  "name": "megumi-final",
+  "version": "1.0.0",
+  "main": "megumi-bot.js",
+  "scripts": {
+    "start": "node megumi-bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest"
+  }
+}
